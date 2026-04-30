@@ -1,0 +1,346 @@
+[
+  {
+    "id": "duckduckgo",
+    "title": "DuckDuckGo Browser",
+    "category": "Utility",
+    "thumbnail": "https://duckduckgo.com/assets/logo_homepage.normal.v108.svg",
+    "iframeUrl": "https://duckduckgo.com/search?q=duckduckgo&atb=v314-1",
+    "description": "Privacy-focused browsing proxy for secure searching and site navigation."
+  },
+  {
+    "id": "roblox",
+    "title": "Roblox",
+    "category": "Creative",
+    "thumbnail": "https://images.rbxcdn.com/f9898031db202a00df835265532575fe.jpg",
+    "iframeUrl": "https://now.gg/apps/roblox-corporation/5349/roblox.html",
+    "description": "Experience the ultimate virtual universe. Note: This web version is provided via cloud gaming for unblocked access."
+  },
+  {
+    "id": "minecraft-classic",
+    "title": "Minecraft Classic",
+    "category": "Creative",
+    "thumbnail": "https://www.minecraft.net/content/dam/minecraftnet/games/minecraft/key-art/Minecraft-Classic-KeyArt.jpg",
+    "iframeUrl": "https://classic.minecraft.net/",
+    "description": "The original creative mode of Minecraft, playable directly in your browser."
+  },
+  {
+    "id": "wild-rift",
+    "title": "LoL: Wild Rift",
+    "category": "MOBA",
+    "thumbnail": "https://play-lh.googleusercontent.com/9v_Y9_Y9_Y9_Y9_Y9_Y9_Y9_Y9_Y9_Y9_Y9_Y9_Y9_Y9=w240-h480-rw",
+    "iframeUrl": "https://now.gg/apps/riot-games-inc/8239/league-of-legends-wild-rift.html",
+    "description": "The skill-based 5v5 MOBA of League of Legends, built from the ground up for mobile and browser."
+  },
+  {
+    "id": "candy-crush-soda",
+    "title": "Candy Crush Soda",
+    "category": "Puzzle",
+    "thumbnail": "https://play-lh.googleusercontent.com/5v_Y9_Y9_Y9_Y9_Y9_Y9_Y9_Y9_Y9_Y9_Y9_Y9_Y9_Y9=w240-h480-rw",
+    "iframeUrl": "https://now.gg/apps/king/2345/candy-crush-soda-saga.html",
+    "description": "Sodalicious! Switch and match your way through new dimensions of magical gameplay."
+  },
+  {
+    "id": "homescapes",
+    "title": "Homescapes",
+    "category": "Casual",
+    "thumbnail": "https://play-lh.googleusercontent.com/4v_Y9_Y9_Y9_Y9_Y9_Y9_Y9_Y9_Y9_Y9_Y9_Y9_Y9_Y9=w240-h480-rw",
+    "iframeUrl": "https://now.gg/apps/playrix/3455/homescapes.html",
+    "description": "Help Austin the butler bring warmth and comfort back to his wonderful family's mansion."
+  },
+  {
+    "id": "genshin-now",
+    "title": "Genshin Impact",
+    "category": "Adventure",
+    "thumbnail": "https://play-lh.googleusercontent.com/8H_Y9_Y9_Y9_Y9_Y9_Y9_Y9_Y9_Y9_Y9_Y9_Y9_Y9_Y9=w240-h480-rw",
+    "iframeUrl": "https://now.gg/apps/cognosphere-pte-ltd/7745/genshin-impact.html",
+    "description": "Explore the vast world of Teyvat in this open-world action RPG."
+  },
+  {
+    "id": "among-us",
+    "title": "Among Us",
+    "category": "Strategy",
+    "thumbnail": "https://static.wikia.nocookie.net/among-us-wiki/images/f/fe/Among_Us_Logo.png",
+    "iframeUrl": "https://now.gg/apps/innersloth-llc/3218/among-us.html",
+    "description": "Play with 4-15 players online as you attempt to hold your spaceship together and return back to civilization."
+  },
+  {
+    "id": "stumble-guys",
+    "title": "Stumble Guys",
+    "category": "Action",
+    "thumbnail": "https://play-lh.googleusercontent.com/W_G_Y9_Y9_Y9_Y9_Y9_Y9_Y9_Y9_Y9_Y9_Y9_Y9_Y9=w240-h480-rw",
+    "iframeUrl": "https://now.gg/apps/kitka-games/7277/stumble-guys.html",
+    "description": "Massively multiplayer party knockout game with up to 32 players online. Join round after round of escalating chaos."
+  },
+  {
+    "id": "brawl-stars",
+    "title": "Brawl Stars",
+    "category": "Action",
+    "thumbnail": "https://play-lh.googleusercontent.com/yS_Y9_Y9_Y9_Y9_Y9_Y9_Y9_Y9_Y9_Y9_Y9_Y9_Y9=w240-h480-rw",
+    "iframeUrl": "https://now.gg/apps/supercell/2967/brawl-stars.html",
+    "description": "Fast-paced 3v3 multiplayer and battle royale made for mobile! Play with friends or solo across a variety of game modes."
+  },
+  {
+    "id": "free-fire",
+    "title": "Free Fire",
+    "category": "Shooter",
+    "thumbnail": "https://play-lh.googleusercontent.com/6_Y9_Y9_Y9_Y9_Y9_Y9_Y9_Y9_Y9_Y9_Y9_Y9_Y9_Y9=w240-h480-rw",
+    "iframeUrl": "https://now.gg/apps/garena-international-i/6421/free-fire.html",
+    "description": "The ultimate survival shooter game. Each 10-minute game places you on a remote island where you are pit against 49 other players."
+  },
+  {
+    "id": "pubg-mobile",
+    "title": "PUBG Mobile",
+    "category": "Shooter",
+    "thumbnail": "https://play-lh.googleusercontent.com/uR_Y9_Y9_Y9_Y9_Y9_Y9_Y9_Y9_Y9_Y9_Y9_Y9_Y9_Y9=w240-h480-rw",
+    "iframeUrl": "https://now.gg/apps/proxima-beta/9788/pubg-mobile.html",
+    "description": "The original battle royale is now on your browser. 100 players, massive maps, and only one winner."
+  },
+  {
+    "id": "call-of-duty",
+    "title": "Call of Duty: Mobile",
+    "category": "Shooter",
+    "thumbnail": "https://play-lh.googleusercontent.com/6U_Y9_Y9_Y9_Y9_Y9_Y9_Y9_Y9_Y9_Y9_Y9_Y9_Y9_Y9=w240-h480-rw",
+    "iframeUrl": "https://now.gg/apps/activision-publishing-inc/1402/call-of-duty-mobile.html",
+    "description": "Console quality HD gaming on your browser with customizable controls, voice and text chat, and thrilling 3D graphics and sound."
+  },
+  {
+    "id": "genshin-impact",
+    "title": "Genshin Impact",
+    "category": "Adventure",
+    "thumbnail": "https://play-lh.googleusercontent.com/8H_Y9_Y9_Y9_Y9_Y9_Y9_Y9_Y9_Y9_Y9_Y9_Y9_Y9_Y9=w240-h480-rw",
+    "iframeUrl": "https://now.gg/apps/cognosphere-pte-ltd/7745/genshin-impact.html",
+    "description": "Embark on a journey through Teyvat to find your lost sibling and seek answers from The Seven — the gods of each element."
+  },
+  {
+    "id": "mobile-legends",
+    "title": "Mobile Legends",
+    "category": "MOBA",
+    "thumbnail": "https://play-lh.googleusercontent.com/9v_Y9_Y9_Y9_Y9_Y9_Y9_Y9_Y9_Y9_Y9_Y9_Y9_Y9_Y9=w240-h480-rw",
+    "iframeUrl": "https://now.gg/apps/moonton/4567/mobile-legends-bang-bang.html",
+    "description": "Join your friends in a brand new 5v5 MOBA showdown against real human opponents, Mobile Legends: Bang Bang!"
+  },
+  {
+    "id": "clash-of-clans",
+    "title": "Clash of Clans",
+    "category": "Strategy",
+    "thumbnail": "https://play-lh.googleusercontent.com/L1_Y9_Y9_Y9_Y9_Y9_Y9_Y9_Y9_Y9_Y9_Y9_Y9_Y9_Y9=w240-h480-rw",
+    "iframeUrl": "https://now.gg/apps/supercell/1234/clash-of-clans.html",
+    "description": "Build your village, raise a clan, and compete in epic Clan Wars!"
+  },
+  {
+    "id": "clash-royale",
+    "title": "Clash Royale",
+    "category": "Strategy",
+    "thumbnail": "https://play-lh.googleusercontent.com/99_Y9_Y9_Y9_Y9_Y9_Y9_Y9_Y9_Y9_Y9_Y9_Y9_Y9_Y9=w240-h480-rw",
+    "iframeUrl": "https://now.gg/apps/supercell/5678/clash-royale.html",
+    "description": "Enter the Arena! Build your Battle Deck and outsmart the enemy in fast-paced real-time battles."
+  },
+  {
+    "id": "gacha-life",
+    "title": "Gacha Life",
+    "category": "Creative",
+    "thumbnail": "https://play-lh.googleusercontent.com/3v_Y9_Y9_Y9_Y9_Y9_Y9_Y9_Y9_Y9_Y9_Y9_Y9_Y9_Y9=w240-h480-rw",
+    "iframeUrl": "https://now.gg/apps/lunime/1123/gacha-life.html",
+    "description": "Dress up your own characters and Gacha for free! You can customize hundreds of characters, then enter the Studio and create any scene you can imagine!"
+  },
+  {
+    "id": "gacha-club",
+    "title": "Gacha Club",
+    "category": "Creative",
+    "thumbnail": "https://play-lh.googleusercontent.com/1v_Y9_Y9_Y9_Y9_Y9_Y9_Y9_Y9_Y9_Y9_Y9_Y9_Y9_Y9=w240-h480-rw",
+    "iframeUrl": "https://now.gg/apps/lunime/7655/gacha-club.html",
+    "description": "What club will you join? Start the party and create your own anime styled characters and dress them up in your favorite fashion outfits!"
+  },
+  {
+    "id": "toca-life",
+    "title": "Toca Life World",
+    "category": "Creative",
+    "thumbnail": "https://play-lh.googleusercontent.com/8v_Y9_Y9_Y9_Y9_Y9_Y9_Y9_Y9_Y9_Y9_Y9_Y9_Y9_Y9=w240-h480-rw",
+    "iframeUrl": "https://now.gg/apps/toca-boca/3211/toca-life-world.html",
+    "description": "Create stories and build your own world with Toca Life World. You’ll get all the fun of your other favorite Toca Life apps such as City, Vacation, Hospital, and more."
+  },
+  {
+    "id": "candy-crush",
+    "title": "Candy Crush Saga",
+    "category": "Puzzle",
+    "thumbnail": "https://play-lh.googleusercontent.com/5v_Y9_Y9_Y9_Y9_Y9_Y9_Y9_Y9_Y9_Y9_Y9_Y9_Y9_Y9=w240-h480-rw",
+    "iframeUrl": "https://now.gg/apps/king/1826/candy-crush-saga.html",
+    "description": "Start playing Candy Crush Saga today – a legendary puzzle game loved by millions of players around the world."
+  },
+  {
+    "id": "8-ball-pool",
+    "title": "8 Ball Pool",
+    "category": "Sports",
+    "thumbnail": "https://play-lh.googleusercontent.com/4v_Y9_Y9_Y9_Y9_Y9_Y9_Y9_Y9_Y9_Y9_Y9_Y9_Y9_Y9=w240-h480-rw",
+    "iframeUrl": "https://now.gg/apps/miniclip/2211/8-ball-pool.html",
+    "description": "The World's #1 Pool game - now on your browser! Play with friends or compete against players from across the globe."
+  },
+  {
+    "id": "lords-mobile",
+    "title": "Lords Mobile",
+    "category": "Strategy",
+    "thumbnail": "https://play-lh.googleusercontent.com/7v_Y9_Y9_Y9_Y9_Y9_Y9_Y9_Y9_Y9_Y9_Y9_Y9_Y9_Y9=w240-h480-rw",
+    "iframeUrl": "https://now.gg/apps/igg-com/3456/lords-mobile.html",
+    "description": "Are you ready for a REAL fight? The true Emperor has fallen. We need a real hero, a true Lord who can unite the Kingdoms."
+  },
+  {
+    "id": "state-of-survival",
+    "title": "State of Survival",
+    "category": "Strategy",
+    "thumbnail": "https://play-lh.googleusercontent.com/9L_Y9_Y9_Y9_Y9_Y9_Y9_Y9_Y9_Y9_Y9_Y9_Y9_Y9_Y9=w240-h480-rw",
+    "iframeUrl": "https://now.gg/apps/kings-group/9988/state-of-survival.html",
+    "description": "It's been six months since the zombie apocalypse began. The virus has infected the city. Six months of terror, horror, survival, and fighting against zombies."
+  },
+  {
+    "id": "evony",
+    "title": "Evony",
+    "category": "Strategy",
+    "thumbnail": "https://play-lh.googleusercontent.com/3L_Y9_Y9_Y9_Y9_Y9_Y9_Y9_Y9_Y9_Y9_Y9_Y9_Y9_Y9=w240-h480-rw",
+    "iframeUrl": "https://now.gg/apps/top-games-inc/4455/evony-the-kings-return.html",
+    "description": "Evony: The King's Return! Join your friends in the greatest RTS game of all time now! Build your cities, train your troops, expand your empire and conquer the City of Thrones to become the King!"
+  },
+  {
+    "id": "fruit-ninja",
+    "title": "Fruit Ninja",
+    "category": "Action",
+    "thumbnail": "https://play-lh.googleusercontent.com/2v_Y9_Y9_Y9_Y9_Y9_Y9_Y9_Y9_Y9_Y9_Y9_Y9_Y9_Y9=w240-h480-rw",
+    "iframeUrl": "https://now.gg/apps/halfbrick-studios/4433/fruit-ninja.html",
+    "description": "Slash fruit, don't slash bombs – that's all you need to know to get started with the addictive Fruit Ninja action!"
+  },
+  {
+    "id": "jetpack-joyride",
+    "title": "Jetpack Joyride",
+    "category": "Action",
+    "thumbnail": "https://play-lh.googleusercontent.com/1v_Y9_Y9_Y9_Y9_Y9_Y9_Y9_Y9_Y9_Y9_Y9_Y9_Y9_Y9=w240-h480-rw",
+    "iframeUrl": "https://now.gg/apps/halfbrick-studios/5544/jetpack-joyride.html",
+    "description": "Bullet-powered jetpacks! Giant mechanical dragons! Birds that shoot money! From the makers of Fruit Ninja comes this insane, high-flying endless runner."
+  },
+  {
+    "id": "angry-birds-2",
+    "title": "Angry Birds 2",
+    "category": "Puzzle",
+    "thumbnail": "https://play-lh.googleusercontent.com/4L_Y9_Y9_Y9_Y9_Y9_Y9_Y9_Y9_Y9_Y9_Y9_Y9_Y9_Y9=w240-h480-rw",
+    "iframeUrl": "https://now.gg/apps/rovio-entertainment-corporation/6677/angry-birds-2.html",
+    "description": "The Angry Birds are back in the sequel to the biggest mobile game of all time! Angry Birds 2 starts a new era of slingshot gameplay with super stunning graphics."
+  },
+  {
+    "id": "plants-vs-zombies",
+    "title": "Plants vs. Zombies",
+    "category": "Strategy",
+    "thumbnail": "https://play-lh.googleusercontent.com/0v_Y9_Y9_Y9_Y9_Y9_Y9_Y9_Y9_Y9_Y9_Y9_Y9_Y9_Y9=w240-h480-rw",
+    "iframeUrl": "https://now.gg/apps/electronic-arts/3322/plants-vs-zombies-free.html",
+    "description": "Get ready to soil your plants as a mob of fun-loving zombies is about to invade your home. Use your arsenal of 49 zombie-zapping plants."
+  },
+  {
+    "id": "solitaire-now",
+    "title": "Solitaire",
+    "category": "Casual",
+    "thumbnail": "https://play-lh.googleusercontent.com/3v_Y9_Y9_Y9_Y9_Y9_Y9_Y9_Y9_Y9_Y9_Y9_Y9_Y9_Y9=w240-h480-rw",
+    "iframeUrl": "https://now.gg/apps/mobilityware/3344/solitaire.html",
+    "description": "Play the #1 Solitaire game in the world! Solitaire is the most popular card game in the world and it's now available for free in your browser."
+  },
+  {
+    "id": "wordscapes",
+    "title": "Wordscapes",
+    "category": "Puzzle",
+    "thumbnail": "https://play-lh.googleusercontent.com/8L_Y9_Y9_Y9_Y9_Y9_Y9_Y9_Y9_Y9_Y9_Y9_Y9_Y9_Y9=w240-h480-rw",
+    "iframeUrl": "https://now.gg/apps/peoplefun/8877/wordscapes.html",
+    "description": "This modern word game combines the best of word searching and crosswords for tremendous brain challenging fun!"
+  },
+  {
+    "id": "subway-surfers-classic",
+    "title": "Subway Surfers",
+    "category": "Action",
+    "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR6_yD_N9N_Y9_Y9_Y9_Y9_Y9_Y9_Y9_Y9_Y9=s0",
+    "iframeUrl": "https://games.poki.com/451458/subway-surfers",
+    "description": "Dash as fast as you can! Dodge the oncoming trains in this world-famous runner."
+  },
+  {
+    "id": "bitlife",
+    "title": "BitLife",
+    "category": "Simulation",
+    "thumbnail": "https://play-lh.googleusercontent.com/yFv9_Y9_Y9_Y9_Y9_Y9_Y9_Y9_Y9_Y9_Y9_Y9_Y9_Y9=w240-h480-rw",
+    "iframeUrl": "https://bitlifeonline.io/",
+    "description": "How will you live your BitLife? Will you try to make all the right choices in an attempt to become a model citizen?"
+  },
+  {
+    "id": "slope",
+    "title": "Slope",
+    "category": "Action",
+    "thumbnail": "https://images.crazygames.com/slope.png?auto=format,compress&q=75&cs=strip&ch=DPR&w=1200&h=630&fit=crop",
+    "iframeUrl": "https://kdata1.com/2020/05/slope/",
+    "description": "Drive your ball through the neon city in this high-speed gravity game."
+  },
+  {
+    "id": "2048",
+    "title": "2048",
+    "category": "Puzzle",
+    "thumbnail": "https://play-lh.googleusercontent.com/L_T_v_A9T_k7R_Y9_Y9_Y9_Y9_Y9_Y9_Y9_Y9_Y,Y9_Y9_Y9_Y9_Y9_Y9_Y9_Y9=w240-h480-rw",
+    "iframeUrl": "https://play2048.co/",
+    "description": "Join the numbers to get to the 2048 tile!"
+  },
+  {
+    "id": "pacman",
+    "title": "Google Pac-Man",
+    "category": "Arcade",
+    "thumbnail": "https://www.google.com/logos/2010/pacman10-i.png",
+    "iframeUrl": "https://macek.github.io/google_pacman/",
+    "description": "The legendary Google Doodle version of the classic Pac-Man arcade game."
+  },
+  {
+    "id": "tetris",
+    "title": "Tetris",
+    "category": "Puzzle",
+    "thumbnail": "https://chvin.github.io/react-tetris/logo.png",
+    "iframeUrl": "https://chvin.github.io/react-tetris/",
+    "description": "The world's most famous puzzle game, rebuilt in React."
+  },
+  {
+    "id": "snake",
+    "title": "Snake Classic",
+    "category": "Arcade",
+    "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR6_yD_N9N_Y9_Y9_Y9_Y9_Y9_Y9_Y9_Y9_Y9=s0",
+    "iframeUrl": "https://triple-snake.netlify.app/",
+    "description": "Eat the apples, grow the snake, and avoid the walls."
+  },
+  {
+    "id": "doodle-jump",
+    "title": "Doodle Jump",
+    "category": "Arcade",
+    "thumbnail": "https://play-lh.googleusercontent.com/d66yZqS_pX_Y9_Y9_Y9_Y9_Y9_Y9_Y9_Y9_Y9_Y,Y9_Y9_Y9_Y9_Y9_Y9_Y9_Y9=w240-h480-rw",
+    "iframeUrl": "https://doodle-jump.com/",
+    "description": "Jump as high as you can in this classic vertical platformer."
+  },
+  {
+    "id": "minecraft",
+    "title": "Minecraft Classic",
+    "category": "Creative",
+    "thumbnail": "https://www.minecraft.net/content/dam/minecraftnet/games/minecraft/key-art/Minecraft-Classic-KeyArt.jpg",
+    "iframeUrl": "https://classic.minecraft.net/",
+    "description": "Play the original creative mode of Minecraft directly in your browser."
+  },
+  {
+    "id": "hextris",
+    "title": "Hextris",
+    "category": "Arcade",
+    "thumbnail": "https://hextris.io/images/logo.png",
+    "iframeUrl": "https://hextris.io/",
+    "description": "Fast-paced puzzle game inspired by Tetris."
+  },
+  {
+    "id": "cookie-clicker",
+    "title": "Cookie Clicker",
+    "category": "Casual",
+    "thumbnail": "https://orteil.dashnet.org/cookieclicker/img/darkswirl.png",
+    "iframeUrl": "https://orteil.dashnet.org/cookieclicker/",
+    "description": "Bake as many cookies as you can in this addictive clicking game."
+  },
+  {
+    "id": "chess",
+    "title": "Chess",
+    "category": "Strategy",
+    "thumbnail": "https://images.chesscomfiles.com/uploads/v1/group/47408.80cc7142.160x160o.7317929a008c.jpeg",
+    "iframeUrl": "https://www.chess.com/play/computer",
+    "description": "Classic game of strategy and skill."
+  }
+]
